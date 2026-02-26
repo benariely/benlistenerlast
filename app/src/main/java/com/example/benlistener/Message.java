@@ -10,7 +10,7 @@ public class Message {
         this.data = data;
         this.status = status;
     }
-
+// test
     public Message() {
 
     }
