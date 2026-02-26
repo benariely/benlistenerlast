@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "553956817938",
+    "project_id": "fir-ben-9bba7",
+    "storage_bucket": "fir-ben-9bba7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:553956817938:android:0aa76c97d305f2af136ccb",
+        "android_client_info": {
+          "package_name": "com.example.benlistener"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCldzfGsPOuXHESZ--uEmgt_PZJ16ydqjc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:553956817938:android:f7e56da7f330b512136ccb",
+        "android_client_info": {
+          "package_name": "com.example.projectfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCldzfGsPOuXHESZ--uEmgt_PZJ16ydqjc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
